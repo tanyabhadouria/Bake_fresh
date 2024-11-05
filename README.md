@@ -10,7 +10,7 @@ Visually Appealing Design: The website uses a modern and visually appealing desi
 Getting Started
 Clone the Repository:
 Bash
-git clone https://github.com/your-username/nice-page-bakery.git
+git clone https://github.com/your-username/Bake_fresh.git
 Use code with caution.
 
 Open the Project: Open the index.html file in your preferred code editor.
